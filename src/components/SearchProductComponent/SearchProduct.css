@@ -1,0 +1,18 @@
+#main{
+    background-color: rgb(220, 179, 171);
+    height: 100%;
+    width: 70%;
+    float: left;
+  }
+#catmain{
+  min-height: 400px;
+  width: 1000px;
+  /* background-color: yellow; */
+}
+.catpart{
+  height: 200px;
+  width: 300px;
+  /* background-color: yellowgreen; */
+  float: left;
+  margin: 0px 0px 0px 10px;
+}

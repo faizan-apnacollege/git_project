@@ -1,0 +1,11 @@
+#nav{
+    background-color: red;
+    height: 10%;
+  }
+  #nav a{
+    font-size:  22px;
+    margin: 0px 40px 0px 40px;
+    color: whitesmoke;
+    font-weight: bolder;
+
+  }

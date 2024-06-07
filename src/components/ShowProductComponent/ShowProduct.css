@@ -1,0 +1,35 @@
+#main {
+  background-color: rgb(220, 179, 171);
+  height: 100%;
+  width: 70%;
+  float: left;
+}
+
+#catmain {
+  min-height: 400px;
+  width: 1000px;
+  /* background-color: yellow; */
+}
+
+.catpart {
+  height: 200px;
+  width: 300px;
+  /* background-color: yellowgreen; */
+  float: left;
+  margin: 0px 0px 0px 10px;
+}
+
+#link {
+  text-decoration: underline;
+  color: red;
+}
+
+#Prdct {
+  margin: 0px 0px 0px 400px;
+}
+
+#table {
+  float: left;
+  /* margin-top: 33px;  */
+  margin-right: 10px;
+}
